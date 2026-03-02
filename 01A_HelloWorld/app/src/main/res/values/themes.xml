@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.01A_HelloWorld" parent="@style/Theme.MaterialComponents.Light">
+        <item name="colorPrimary">#0CD9F3</item>
+        <item name="colorPrimaryDark">#046ABA</item>
+    </style>
+
+    <style name="Theme.01A_HelloWorld" parent="Base.Theme.01A_HelloWorld" />
+</resources>

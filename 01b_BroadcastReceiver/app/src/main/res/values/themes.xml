@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.01b_BroadcastReceiver" parent="@style/Theme.MaterialComponents.Light">
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="colorPrimaryDark">#2196F3</item>
+    </style>
+
+    <style name="Theme.01b_BroadcastReceiver" parent="Base.Theme.01b_BroadcastReceiver" />
+</resources>
